@@ -8,7 +8,7 @@ Write in this document the interface of a page object class for this page.
 
 ## Answer
 
-N'ayant pas le code html de "Simba Organizer Poll page" j'ai inventé les noms des variables.
+N'ayant pas le code html de "Simba Organizer Poll page" nous avons inventé les noms des variables.
 
 ```java
 
