@@ -12,6 +12,7 @@ Include in this document the code of the test and, if you did it, the link to th
 
 ## Answer
 
+
 We've discovered a bug that permits users to bypass earlier steps and directly access the final step by clicking on
 the desired step number.
 

@@ -27,4 +27,4 @@ Include the code of the walker and the snapshot in this document.
     - Click on : https://meta.wikimedia.org/wiki/Main_Page/ang
     - Click on : https://meta.wikimedia.org/wiki/Main_Page/haw
     - Click on : https://meta.wikimedia.org/wiki/Special:MyLanguage/Steward_requests/Bot_status
-    - Click on : https://hif.wikipedia.org/wiki/Wikipedia:Samaj_Portal 
+    - Click on : https://hif.wikipedia.org/wiki/Wikipedia:Samaj_Portal
